@@ -1,3 +1,4 @@
+backend/language_novice/language_novice/migrations
 *.idea
 venv/*
 virtualenv/*
